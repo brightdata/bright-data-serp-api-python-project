@@ -8,10 +8,10 @@ This project demonstrates how to use Bright Data's SERP API to access search eng
 ```bash
 pip install requests python-dotenv
 ```
-### 2. Configure your API token
+### 2. Configure your API Key
 create a .env file:
-`bashcp .env.example .env`
-Edit `.env` and add your API token
+Edit `.env` and add your API key
+`BRIGHT_DATA_API_KEY=your_api_key_here`
 Get your API Key here: https://brightdata.com/cp/setting/users
 
 # 3. Run the script
