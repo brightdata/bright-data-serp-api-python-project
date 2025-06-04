@@ -18,3 +18,7 @@ Get your API Key here: https://brightdata.com/cp/setting/users
 
 # 3. Run the script
 `python index.py`
+
+## Demo
+https://github.com/user-attachments/assets/cdc1ab9c-f5ff-475c-abae-cff415011db7
+
