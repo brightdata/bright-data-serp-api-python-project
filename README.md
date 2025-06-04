@@ -1,7 +1,3 @@
-# bright-data-serp-api-python-project
-About Bright Data SERP API python boilerplate code
-
-
 # Bright Data SERP API Python Project
 
 This project demonstrates how to use Bright Data's SERP API to access search engine query results without being blocked through Bright Data SERP API.
