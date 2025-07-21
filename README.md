@@ -1,5 +1,7 @@
 # Bright Data SERP API Python Project
 
+[![Bright Data Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/)
+
 <a href="https://githubbox.com/brightdata/bright-data-serp-api-python-project?file=index.py" target="_blank">Open in CodeSandbox</a>, sign in with GitHub, then fork the repository to begin making changes.
 
 This project demonstrates how to use Bright Data's SERP API to access search engine query results without being blocked through Bright Data SERP API.
